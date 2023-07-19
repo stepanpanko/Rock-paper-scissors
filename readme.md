@@ -1,1 +1,1 @@
-[https://vercel.com/stepanpanko/rock-paper-scissors/Hj1D27oZGoq1cuw3bwQU8uzEqcCQ](https://rock-paper-scissors-1lb5fbqq9-stepanpanko.vercel.app/)https://rock-paper-scissors-1lb5fbqq9-stepanpanko.vercel.app/
+[Live Preview](https://rock-paper-scissors-1lb5fbqq9-stepanpanko.vercel.app/)
