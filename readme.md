@@ -1,4 +1,4 @@
-<div align='center'>
+
 
 <h2>About the project</h2>
 
@@ -10,4 +10,4 @@
 
 » Css <br>
 » JavaScript
-</div>
+
