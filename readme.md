@@ -8,6 +8,6 @@
 
 <h3>Built with:</h3>
 
-» Css <br>
+» CSS <br>
 » JavaScript
 
