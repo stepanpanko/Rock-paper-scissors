@@ -4,10 +4,10 @@
 
   <p><b>Rock paper scissors</b> is a fun little project aimed at relieving stress by playing a good old fun game after a long hard day of work</p>
 
-👉 Live Demo: <a href='https://rock-paper-scissors-theta-amber.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://rock-paper-scissors-theta-amber.vercel.app)/'>Live Demo</a>
 
 <h3>Built with:</h3>
 
-» CSS <br>
-» JavaScript
+» Tailwind CSS <br>
+» React
 
