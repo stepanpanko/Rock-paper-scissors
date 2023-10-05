@@ -8,6 +8,6 @@
 
 <h3>Built with:</h3>
 
-» Tailwind CSS <br>
-» React
+» CSS <br>
+» JavaScript
 
